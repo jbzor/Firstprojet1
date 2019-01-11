@@ -1,0 +1,33 @@
+c:\users\hornela\documents\visual studio 2013\Projects\projet3\projet3\bin\Debug\projet3.exe.config
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\bin\Debug\projet3.exe
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\bin\Debug\projet3.pdb
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.csprojResolveAssemblyReference.cache
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.Form1.resources
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.Form2.resources
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.Form3.resources
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.Form5.resources
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.Form6.resources
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.Form7.resources
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.Form8.resources
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.Properties.Resources.resources
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.csproj.GenerateResource.Cache
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.exe
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.pdb
+C:\Users\Hornela\Documents\Visual Studio 2013\Projects\projet3\projet3\obj\Debug\projet3.Form9.resources
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\bin\Debug\projet3.exe.config
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.exe
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.pdb
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\bin\Debug\projet3.exe
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\bin\Debug\projet3.pdb
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\bin\Debug\MySql.Data.dll
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.csprojResolveAssemblyReference.cache
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.Form1.resources
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.Form2.resources
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.Form3.resources
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.Form5.resources
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.Form6.resources
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.Form7.resources
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.Form8.resources
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.Form9.resources
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.Properties.Resources.resources
+C:\Users\JBZOR\Desktop\CshapADM\projet3\projet3\obj\Debug\projet3.csproj.GenerateResource.Cache
